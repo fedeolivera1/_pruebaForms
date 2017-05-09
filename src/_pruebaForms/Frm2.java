@@ -50,5 +50,6 @@ public class Frm2 extends JFrame {
 		JTextArea textArea = new JTextArea();
 		textArea.setBounds(263, 83, 161, 22);
 		contentPane.add(textArea);
+		//agrego un comentario para prueba de git
 	}
 }
